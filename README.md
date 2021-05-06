@@ -15,3 +15,5 @@ SpeedSterKawaii for updating.
 Sir Zyx for Auto Transpiler.
 
 Give credits to them before using (or exposing time)
+
+<img src="images/myimage.jpg">
